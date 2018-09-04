@@ -1,1 +1,1 @@
-A simple task manager web app created using Laravel and React, it was created by following the tutorial from here: https://www.linkedin.com/learning/building-restful-apis-in-laravel/what-you-should-know-before-watching-this-course
+A simple task manager web app created using Laravel and React, it was created by following the tutorial from here: https://blog.pusher.com/react-laravel-application/
